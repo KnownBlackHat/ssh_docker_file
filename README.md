@@ -2,5 +2,5 @@
 
 ## How to build
 ```bash
-docker build -t <file name> <directory where Dockerfile exsist>
+docker build -t <Image name you wanna give to this image> <directory where Dockerfile exsist>
 ```
